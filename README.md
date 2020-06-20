@@ -1,2 +1,3 @@
-# Nuxt-starter-2
-Created with CodeSandbox
+# Nuxt TypeScript with Composition API (minimal)
+
+https://typescript.nuxtjs.org/examples/composition-api/minimal
